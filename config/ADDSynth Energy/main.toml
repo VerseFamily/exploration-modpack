@@ -1,0 +1,32 @@
+
+[Compressor]
+	#Range: > 0
+	"Work Time" = 200
+	#Range: 0.0 ~ 3.4028234663852886E38
+	"Maximum Energy Per Tick" = 10.0
+	#Range: 0.0 ~ 3.4028234663852886E38
+	"Idle Energy Drain" = 0.0
+
+["Circuit Fabricator"]
+	#Range: > 0
+	"Work Time" = 1000
+	#Range: 0.0 ~ 3.4028234663852886E38
+	"Maximum Energy Per Tick" = 25.0
+	#Range: 0.0 ~ 3.4028234663852886E38
+	"Idle Energy Drain" = 0.0
+
+["Electric Furnace"]
+	Enabled = true
+
+["Energy Storage Block"]
+	Enabled = true
+	#Range: > 0
+	"Energy Storage Container Capacity" = 1000000
+	#Range: > 0
+	"Energy Storage Container Extract Rate" = 500
+
+["Universal Energy Interface"]
+	Enabled = true
+	#Range: > 0
+	"Universal Energy Interface Buffer" = 1000
+

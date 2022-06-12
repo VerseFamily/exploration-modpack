@@ -1,0 +1,22 @@
+
+[Main]
+
+	[Main.Debug]
+		"Print Mod Detection Results" = false
+		"Dump Block & Item Tags" = false
+		"Dump Map Colors" = false
+
+	[Main."Music Box"]
+		#By default, the Music Box uses Right-Hand controls (Left-click adds notes, Right-click deletes notes.)
+		#Set this to true to enable Left-Hand controls, which will swap these functions.
+		"Enable Left Hand" = false
+
+	[Main.Advanced]
+		#Enabling this will grant you access to advanced configuration options in the Mod's Configuration screen.
+		#Advanced configuration options such as those in the worldgen.cfg file allow you access to internal game values,
+		#and adjusting them will vastly alter gameplay. They are only intended to be used for debug, testing, or
+		#experimental purposes. In order to maintain a standard gameplay experience (the way the author intended)
+		#we encourage you to leave these values at their defaults. (However, modpack authors may want to adjust these
+		#values in order to create a balanced gameplay.)
+		"Show Advanced Config in Client Gui" = false
+

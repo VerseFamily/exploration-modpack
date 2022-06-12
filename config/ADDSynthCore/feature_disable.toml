@@ -1,0 +1,19 @@
+
+["Feature Disable"]
+	"Caution Block" = true
+	"Music Box" = true
+	"Music Sheet" = true
+	"Team Manager" = true
+
+	["Feature Disable".Trophies]
+		"Bronze Trophy" = true
+		"Silver Trophy" = true
+		"Gold Trophy" = true
+		"Platinum Trophy" = true
+
+	["Feature Disable".Commands]
+		"Item Explosion" = true
+		"Zombie Raid" = true
+		Blackout = true
+		"Lightning Storm" = true
+

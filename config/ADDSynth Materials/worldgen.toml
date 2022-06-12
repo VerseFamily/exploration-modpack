@@ -1,0 +1,145 @@
+
+[Worldgen]
+
+	[Worldgen."Silver Ore"]
+		#Range: 1 ~ 40
+		tries = 3
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 64
+		#Range: 1 ~ 20
+		size = 9
+		generate = true
+
+	[Worldgen."Emerald Ore"]
+		#Range: 1 ~ 40
+		tries = 3
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 40
+		#Set this to false to revert back to Vanilla generation, which only generates
+		#Emerald Ore in the Extreme Hills biomes.
+		generate = true
+
+	[Worldgen."Silicon Ore"]
+		#Range: 1 ~ 40
+		tries = 11
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 128
+		#Range: 1 ~ 20
+		size = 4
+		generate = true
+
+	[Worldgen."Rose Quartz Ore"]
+		#Range: 1 ~ 40
+		tries = 1
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 128
+		generate = true
+
+	[Worldgen."Titanium Ore"]
+		#Range: 1 ~ 40
+		tries = 2
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 96
+		#Range: 1 ~ 20
+		size = 7
+		generate = true
+
+	[Worldgen."Sapphire Ore"]
+		#Range: 1 ~ 40
+		tries = 3
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 40
+		generate = true
+
+	[Worldgen."Copper Ore"]
+		#Range: 1 ~ 40
+		tries = 10
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 128
+		#Range: 1 ~ 20
+		size = 9
+		generate = true
+
+	[Worldgen."Aluminum Ore"]
+		#Range: 1 ~ 40
+		tries = 10
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 128
+		#Range: 1 ~ 20
+		size = 9
+		generate = true
+
+	[Worldgen."Topaz Ore"]
+		#Range: 1 ~ 40
+		tries = 3
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 40
+		generate = true
+
+	[Worldgen."Tin Ore"]
+		#Range: 1 ~ 40
+		tries = 10
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 128
+		#Range: 1 ~ 20
+		size = 9
+		generate = true
+
+	[Worldgen."Ruby Ore"]
+		#Range: 1 ~ 40
+		tries = 3
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 40
+		generate = true
+
+	[Worldgen."Citrine Ore"]
+		#Range: 1 ~ 40
+		tries = 3
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 40
+		generate = true
+
+	[Worldgen."Platinum Ore"]
+		#Range: 1 ~ 40
+		tries = 2
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 96
+		#Range: 1 ~ 20
+		size = 7
+		generate = true
+
+	[Worldgen."Amethyst Ore"]
+		#Range: 1 ~ 40
+		tries = 3
+		#Range: 0 ~ 255
+		"minimum height" = 5
+		#Range: 0 ~ 255
+		"maximum height" = 40
+		generate = true
+
